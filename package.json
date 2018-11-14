@@ -1,12 +1,12 @@
 {
   "name": "outdate",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "npm dependencies checker",
+  "main": "outdate",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cloudbeer<cloudbeer@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1"
